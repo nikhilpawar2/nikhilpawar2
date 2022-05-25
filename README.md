@@ -37,12 +37,12 @@ When I am not coding, I love listening Music, Travel and Play Football.
 
 
 ## GitHub Status
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NikhilPawar&show_icons=true&locale=en&theme=dracula" alt="NikhilPawar"  style="width:400px;" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=NikhilPawar&show_icons=true&locale=en&layout=compact&theme=dracula" alt="NikhilPawar" style="width:400px;" /></p>  
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nikhilpawar&show_icons=true&locale=en&theme=dracula" alt="NikhilPawar"  style="width:400px;" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikhilpawar&show_icons=true&locale=en&layout=compact&theme=dracula" alt="NikhilPawar" style="width:400px;" /></p>  
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=NikhilPawar&theme=tokyonight" alt="NikhilPawar" style="width:400px;"  /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nikhilpawar&theme=tokyonight" alt="NikhilPawar" style="width:400px;"  /></p>
 
 
 
